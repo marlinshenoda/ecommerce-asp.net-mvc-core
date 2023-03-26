@@ -1,4 +1,4 @@
-using ETickets.Web.Data;
+using ETickets.Data.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
